@@ -2,3 +2,4 @@
 
 Link to paper: https://arxiv.org/abs/1505.04597
 
+<img src='images/u-net-architecture.png'>
