@@ -2,4 +2,7 @@
 
 Link to paper: https://arxiv.org/abs/1505.04597
 
-<img src='images/u-net-architecture.png'>
+<figure>
+  <img src='images/u-net-architecture.png'>
+  <figcaption>U-net architecture</figcaption>
+</figure>
